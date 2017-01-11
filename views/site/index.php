@@ -91,7 +91,6 @@
                     <a class="right recommended-item-control" id="next"  href="#recommended-item-carousel" data-slide="next">
                         <i class="fa fa-angle-right"></i>
                     </a>
-
                 </div>
             </div><!--/recommended_items-->
 
